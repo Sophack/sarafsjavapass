@@ -81,8 +81,6 @@ for (var i=0; i < passLength; i++) {
 
 }
 
-//if user chooses 'cancel' for first option, it returns with undefined
-
 
 
 // Write password to the #password input
