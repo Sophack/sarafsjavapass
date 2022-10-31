@@ -6,4 +6,12 @@
 
 # If a non numerical answer is chosen then it will prompt the user of that, see image: "NaN.jpg"
 
-# The user is 
+# The user is then able to click on the "Generate Password" button to restart the prompt 
+
+# If user has inputted a numerical figure, it moves onto the next prompts in the following order: 
+
+#    "Would you like to include numbers in your password? 
+#    "Would you like to include special characters? 
+#    "Would you like to include uppercase letters? 
+#    "Would you like to include lowercase letters? 
+
